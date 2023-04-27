@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "yapf"
+    "editor.fontSize": 20
+    "editor.fontFamily": "Cascadia Code"
+}
